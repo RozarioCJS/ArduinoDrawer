@@ -1,0 +1,10 @@
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\bin\Debug\ArduinoDrawer.exe.config
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\bin\Debug\ArduinoDrawer.exe
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\bin\Debug\ArduinoDrawer.pdb
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.csproj.AssemblyReference.cache
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.Form1.resources
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.Properties.Resources.resources
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.csproj.GenerateResource.cache
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.csproj.CoreCompileInputs.cache
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.exe
+C:\Users\sodie\Coding\WinFormsProjects\ArduinoDrawer\ArduinoDrawer\obj\Debug\ArduinoDrawer.pdb
