@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\sodie\\Coding\\WinFormsProjects\\ArduinoDrawer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29F34653-AD19-46EC-97F5-6D35C27043B7}|ArduinoDrawer\\ArduinoDrawer.csproj|C:\\Users\\sodie\\Coding\\WinFormsProjects\\ArduinoDrawer\\arduinodrawer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{29F34653-AD19-46EC-97F5-6D35C27043B7}|ArduinoDrawer\\ArduinoDrawer.csproj|c:\\users\\sodie\\coding\\winformsprojects\\arduinodrawer\\arduinodrawer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29F34653-AD19-46EC-97F5-6D35C27043B7}|ArduinoDrawer\\ArduinoDrawer.csproj|solutionrelative:arduinodrawer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F34653-AD19-46EC-97F5-6D35C27043B7}|ArduinoDrawer\\ArduinoDrawer.csproj|c:\\users\\sodie\\coding\\winformsprojects\\arduinodrawer\\arduinodrawer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29F34653-AD19-46EC-97F5-6D35C27043B7}|ArduinoDrawer\\ArduinoDrawer.csproj|C:\\Users\\sodie\\Coding\\WinFormsProjects\\ArduinoDrawer\\arduinodrawer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F34653-AD19-46EC-97F5-6D35C27043B7}|ArduinoDrawer\\ArduinoDrawer.csproj|solutionrelative:arduinodrawer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,8 +70,7 @@
               "RelativeToolTip": "ArduinoDrawer\\Form1.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAjwE0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:34:27.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:34:27.225Z"
             }
           ]
         }
