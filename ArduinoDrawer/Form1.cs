@@ -82,11 +82,11 @@ namespace ArduinoDrawer
 
                 if (parts.Length == 3)
                 {
-                    string switchState = parts[0].Trim();
+                    int switchState = int.Parse(parts[0].Trim());
                     int xAxis = int.Parse(parts[1].Trim());
                     int yAxis = int.Parse(parts[2].Trim()); 
 
-                    DrawPoint(xAxis, yAxis);
+                    DrawPoint(switchState,xAxis, yAxis);
                 }
                 else
                 {
@@ -94,15 +94,19 @@ namespace ArduinoDrawer
                 }
             }
         }
-        private void DrawPoint(int x, int y)
+        private void DrawPoint(int switchState, int x, int y)
         {
-
+            if(switchState == 0)
+            {
+                pictureBox1.Image = null;
+            }
+            Color purple = Color.FromArgb(255, 128, 0,128);
+            SolidBrush solidBrush = new SolidBrush(purple);
             Graphics g = pictureBox1.CreateGraphics();
 
 
-            g.DrawRectangle(Pens.Black, x, y, 1, 1);
-
-
+            //g.DrawRectangle(Pens.Black, x, y, 5, 5);
+            g.FillEllipse(solidBrush, x, y, 10, 10);
             g.Dispose();
         }
     }
